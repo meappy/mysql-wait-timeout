@@ -1,0 +1,5 @@
+[mysqlDB]
+host = 127.0.0.1
+db = mysql
+user = root
+pass = password
